@@ -8,8 +8,8 @@ I care about self-hosted infrastructure, privacy-preserving systems, and buildin
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| **[go-learn](link)** | A self-testing learning platform for Go — built to teach myself the language by building something real | Go |
-| **[lan-offline-mode](link)** | NeoForge 1.21.1 Minecraft mod — LAN play without online auth. Solved mixin obfuscation issues in the modding toolchain | Java |
+| **[go-learn](https://github.com/Nick-the-Descended/Learn-Go)** | A self-testing learning platform for Go — built to teach myself the language by building something real | Go |
+| **[VoxBot](https://github.com/Nick-the-Descended/VoxBot)** | A self-hosted Discord bot that reads typed messages aloud in voice channels using real-time voice cloning with no cloud APIs, fully local | Python, discord.py, Chatterbox TTS, SQLite |
 | **homelab** | Self-hosted dev stack: SvelteKit + Strapi + Medusa + PostgreSQL + Valkey, containerized with Podman, tunneled through Cloudflare Zero Trust, running on Alpine Linux | Podman, Alpine, Cloudflare |
 
 > 💡 *If you have a project idea that involves Go, Linux networking, or security tooling — I'm open to collaborating.*
