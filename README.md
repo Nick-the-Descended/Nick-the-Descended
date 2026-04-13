@@ -8,7 +8,7 @@ I care about self-hosted infrastructure, privacy-preserving systems, and buildin
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| **[go-learn](https://github.com/Nick-the-Descended/Learn-Go)** | A self-testing learning platform for Go — built to teach myself the language by building something real | Go |
+| **[Learn-Go](https://github.com/Nick-the-Descended/Learn-Go)** | A self-testing learning platform for Go — built to teach myself the language by building something real. [check it out here](https://learn-go-one.vercel.app/) | Next.js 16, TypeScript, MDX, CodeMirror 6, Go Playground API, shadcn/ui, Tailwind CSS, Fuse.js, Vercel |
 | **[VoxBot](https://github.com/Nick-the-Descended/VoxBot)** | A self-hosted Discord bot that reads typed messages aloud in voice channels using real-time voice cloning with no cloud APIs, fully local | Python, discord.py, Chatterbox TTS, SQLite |
 | **homelab** | Self-hosted dev stack: SvelteKit + Strapi + Medusa + PostgreSQL + Valkey, containerized with Podman, tunneled through Cloudflare Zero Trust, running on Alpine Linux | Podman, Alpine, Cloudflare |
 
